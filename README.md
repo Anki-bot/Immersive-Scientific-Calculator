@@ -2,6 +2,8 @@
 
 A feature-rich, modern scientific calculator built entirely in Python using the Tkinter GUI framework. Designed with a sleek dark interface, it supports advanced mathematical operations, memory states, and seamless keyboard integration.
 
+<img width="1408" alt="calculator-preview" src="https://github.com/user-attachments/assets/173193fb-0918-4b2e-92c9-8aa5e4ba1494" />
+
 ## ✨ Features
 * **Standard & Scientific Modes:** Basic arithmetic alongside trigonometric, logarithmic, and power functions.
 * **Modern UI:** Immersive dark theme interface for a premium desktop experience.
