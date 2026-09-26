@@ -17,3 +17,4 @@ To run the calculator natively via Python:
 2. Clone this repository and run the script:
    ```bash
    python immersive_calculator.py
+

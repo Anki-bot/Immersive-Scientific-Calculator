@@ -1,5 +1,7 @@
-```text
-  __pycache__/
-  build/
-  dist/
-  *.spec
+__pycache__/
+build/
+dist/
+*.spec
+.venv/
+.vscode/
+.DS_Store
